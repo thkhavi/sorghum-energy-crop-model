@@ -1,5 +1,4 @@
-# sorghum-energy-crop-model
-## Energy-sorghum_crop-model_VPD-limited_transpiration
+## sorghum-energy-crop-model
 XML files reflective of a bioenergy sorghum plant that can be evaluated in APSIM and C++ code for a VPD limited-transpiration trait in the sorghum module of APSIM. 
 ### Dependencies: 
   - APSIM version 7.7 [http://www.apsim.info/](http://www.apsim.info/); described in [Holzworth et al. (2014)](http://dx.doi.org/10.1016/j.envsoft.2014.07.009).
